@@ -34,7 +34,3 @@ Dataset should be a CSV file with two columns:
 Clone the repository:
 
 https://github.com/umamaheswari40/Twitter-Sentiment-Analysis-using-ML/edit/main/README.md
-
-```bash
-git clone https://github.com/yourusername/sentiment-analysis.git
-cd sentiment-analysis
