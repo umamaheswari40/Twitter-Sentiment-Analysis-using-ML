@@ -38,8 +38,3 @@ https://github.com/umamaheswari40/Twitter-Sentiment-Analysis-using-ML/edit/main/
 ```bash
 git clone https://github.com/yourusername/sentiment-analysis.git
 cd sentiment-analysis
-
-
-Install dependencies:
-
-pip install pandas numpy scikit-learn
