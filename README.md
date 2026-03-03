@@ -1,5 +1,4 @@
-# Twitter-Sentiment-Analysis-using-ML
-# 📊 Sentiment Analysis using Machine Learning
+# 📊 Twitter-Sentiment-Analysis-using-ML
 
 A machine learning project that analyzes social media text and predicts whether the sentiment is **positive** or **negative** using TF-IDF feature extraction and supervised classification models.
 
@@ -40,6 +39,7 @@ https://github.com/umamaheswari40/Twitter-Sentiment-Analysis-using-ML/edit/main/
 git clone https://github.com/yourusername/sentiment-analysis.git
 cd sentiment-analysis
 
- Install dependencies:
+
+Install dependencies:
 
 pip install pandas numpy scikit-learn
